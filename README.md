@@ -9,6 +9,8 @@ All Attacks for System (Monitor)
 
 # Attack in Sys Level:
 
+* Code Detection, 系統指紋辨識->系統漏洞
+
 * Backdoor, 後門程式
 
 * Buffer overflaw, 緩衝區溢位
