@@ -37,6 +37,10 @@ to do dynamic malware analysis systems, there are 2 free snadbox are recommeded:
 
 # VM
 
+it is an alternative to Sandbox, or an practition example of Sandbox.
+
+it emulates a PC, calling guest os, on the VM host.
+
 ------------------------------------------------------------
 
 # Checklist for System
