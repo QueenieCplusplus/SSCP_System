@@ -3,6 +3,8 @@ All Attacks for System (Monitor)
 
 http://www.wildlist.org/user_reports.htm (frequently asked virus)
 
+------------------------------------------------------------
+
 # Digital Signature (a.k.a Code Sign)
 
 # Sandbox
@@ -29,6 +31,8 @@ http://www.wildlist.org/user_reports.htm (frequently asked virus)
 
 # Suspicious Packer Detection
 
+
+------------------------------------------------------------
 
 # Attack in Sys Level:
 
