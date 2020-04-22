@@ -36,6 +36,8 @@ All Attacks for System (Monitor)
 
 * Backdoor, 後門程式
 
+* Log File Attack, 偷看紀錄（揭露重要訊息）
+
 * Memory Dump, 記憶體溢
 
 http://www.rekall-forensic.com (鑑識檢測工具)
@@ -47,6 +49,10 @@ http://www.rekall-forensic.com (鑑識檢測工具)
 * Diretory Traversal (a.k.a Filepath Traversal), 路徑跨域
 
 * Convert Channel, 秘密通道
+
+* Passive DNS Query by "fast flux botnets", 反向主機名稱查詢
+
+https://ithelp.ithome.com.tw/articles/10190057
 
 # Attacked Apps:
 
