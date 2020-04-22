@@ -25,6 +25,10 @@ https://github.com/QueenieCplusplus/Cipher_Crypto
 
 # Sandbox
 
+a sandbox is a secluded env on a pc, where a developer can run the untrusted code to study the result without having effects in sys.
+
+it also promise to be protected from Botnet, executing its malicious behavior, receive its unpacked code, generate signature for botnet's cmd & control traffic.
+
 # VM
 
 ------------------------------------------------------------
