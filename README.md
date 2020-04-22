@@ -1,11 +1,15 @@
 # SSCP_System
 All Attacks for System (Monitor)
 
+http://www.wildlist.org/user_reports.htm (frequently asked virus)
+
 # Digital Signature (a.k.a Code Sign)
 
 # Sandbox
 
 # VM
+
+------------------------------------------------------------
 
 # Checklist for System
 
