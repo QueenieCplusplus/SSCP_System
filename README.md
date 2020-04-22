@@ -40,6 +40,8 @@ All Attacks for System (Monitor)
 
 * Log File Attack, 偷看紀錄（揭露重要訊息）
 
+* Malicious File by DiskMount, 虛擬記憶體放置惡意文件
+
 * Memory Dump, 記憶體溢
 
 http://www.rekall-forensic.com (鑑識檢測工具)
