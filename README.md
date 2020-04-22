@@ -29,8 +29,27 @@ http://www.wildlist.org/user_reports.htm (frequently asked virus)
 
 7. Http Traffic
 
+# Protection for System
+
+1. Libs (injection)
+
+2. Drivers (loaded payload)
+
+3. Key Register (Change)
+
+4. File Modify
+
+5. Target Process (call API)
+
+6. Http Traffic --- SSL & using Encrpto 加密 (Layer5)
+
+7. Port --- SNORT/Open Port Scanner
+
+8. virus --- Pestudio
+
 # Suspicious Packer Detection
 
+...
 
 ------------------------------------------------------------
 
