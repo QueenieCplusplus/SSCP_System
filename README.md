@@ -9,21 +9,20 @@ All Attacks for System (Monitor)
 
 # Checklist for System
 
-1.
+1. Port
 
-2.
+2. Libs (injection)
 
-3.
+3. Drivers (loaded payload)
 
-4.
+4. Key Register (Change)
 
-5.
+5. Target Process (call API)
 
-6.
+6. File Modify
 
-7.
+7. Http Traffic
 
-8.
 
 # Attack in Sys Level:
 
