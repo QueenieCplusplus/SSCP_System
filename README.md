@@ -79,6 +79,23 @@ https://community.synopsys.com/s/topic/0TO34000000LiuoGAC/codenomicon
 
 ------------------------------------------------------------
 
+# Brute-Force Attacks:
+
+Hacker can manifest(show) config values, and make request to Server, then get response, and analysis the response 
+
+-[x] Dictionary Attack
+
+   to guess username & password from a dictionary file using script.
+
+-[x] Search Attack
+
+   to guess username & password from a set of given conditions, such as
+   a given password length and a character set. (this attack will be slow due to  big possible candidates)
+
+-[x] Rule-based Attack
+
+------------------------------------------------------------
+
 # Attack in Sys Level:
 
 * P2P Network
