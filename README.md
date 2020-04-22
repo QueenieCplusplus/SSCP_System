@@ -29,6 +29,12 @@ a sandbox is a secluded env on a pc, where a developer can run the untrusted cod
 
 it also promise to be protected from Botnet, executing its malicious behavior, receive its unpacked code, generate signature for botnet's cmd & control traffic.
 
+to do dynamic malware analysis systems, there are 2 free snadbox are recommeded:
+
+* Anubis
+
+* CWSandbox
+
 # VM
 
 ------------------------------------------------------------
