@@ -9,14 +9,12 @@ All Attacks for System (Monitor)
 
 # Attack in Sys Level:
 
-* Backdoor
+* Backdoor, 後門程式
 
-* Buffer overflaw
+* Buffer overflaw, 緩衝區溢位
 
-* Pointer overflow
+* Pointer overflow, 指標溢位
 
-* Diretory Traversal (a.k.a Filepath Traversal)
+* Diretory Traversal (a.k.a Filepath Traversal), 路徑跨域
 
-* Convert Channel
-
-
+* Convert Channel, 秘密通道
