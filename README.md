@@ -7,6 +7,12 @@ http://www.wildlist.org/user_reports.htm (frequently asked virus)
 
 # Digital Signature (a.k.a Code Sign)
 
+a technique to protect the agent sys (software) from being attacks is to use a digital signature, it confirms the auth of the object, its integrity, its origin.
+
+Normally, the creator of the figital signature == creator of the agent software || user of agent || an entity reviewed the agent.
+
+Beacuse of the agent plays a role as (on behalf of) end user or organization.
+
 # Sandbox
 
 # VM
