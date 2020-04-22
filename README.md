@@ -91,13 +91,13 @@ Network Interfaces
 
 https://community.synopsys.com/s/topic/0TO34000000LiuoGAC/codenomicon
 
--[x] Analysis on Attack Surface
+- [x] Analysis on Attack Surface
 
--[x] Test (identify) the Attack Vectors
+- [x] Test (identify) the Attack Vectors
 
--[x] Report
+- [x] Report
 
--[x] Mitigate
+- [x] Mitigate
 
 # Attack Protection Tool
 
@@ -121,16 +121,16 @@ https://community.synopsys.com/s/topic/0TO34000000LiuoGAC/codenomicon
 
 Hacker can manifest(show) config values, and make request to Server, then get response, and analysis the response 
 
--[x] Dictionary Attack
+- [x] Dictionary Attack
 
    to guess username & password from a dictionary file using script.
 
--[x] Search Attack
+- [x] Search Attack
 
    to guess username & password from a set of given conditions, such as
    a given password length and a character set. (this attack will be slow due to  big possible candidates)
 
--[x] Rule-based Attack
+- [x] Rule-based Attack
 
    to guess username & password from a guessed space coverage, like "John the Ripper" can generate password variation from part of username or modify them thru a preconfig mask words in the input.
 
