@@ -43,7 +43,7 @@ http://www.wildlist.org/user_reports.htm (frequently asked virus)
 
 6. Http Traffic --- SSL & using Encrpto 加密 (Layer5)
 
-7. Port --- SNORT/Open Port Scanner
+7. Port --- SNORT/Open Port Scanner/ use nonstandard port to avoid brute-force attacks
 
 8. virus --- Pestudio
 
