@@ -13,6 +13,14 @@ Normally, the creator of the figital signature == creator of the agent software 
 
 Beacuse of the agent plays a role as (on behalf of) end user or organization.
 
+Pass the agent's code thru a non-reversible hash function, which provide a fingerprint (系統指紋) or unique msg digest of the code. The agent code + signature + pub key can be forwarded to a recipient, who can easily verify the source & auth of the code.
+
+Codes are differ from Schema and the Party who signs, such as the author of the agent.
+
+* Pub/Private Keys Pair:
+
+https://github.com/QueenieCplusplus/Cipher_Crypto
+
 # Sandbox
 
 # VM
