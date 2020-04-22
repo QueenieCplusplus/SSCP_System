@@ -5,7 +5,7 @@ http://www.wildlist.org/user_reports.htm (frequently asked virus)
 
 ------------------------------------------------------------
 
-# Digital Signature (a.k.a Code Sign)
+# Digital Signature (a.k.a Code Sign), 數位簽章
 
 a technique to protect the agent sys (software) from being attacks is to use a digital signature, it confirms the auth of the object, its integrity, its origin.
 
@@ -23,7 +23,7 @@ Digital Signature is benefit from the availabilty of a pub key infra, and then c
 
 https://github.com/QueenieCplusplus/Cipher_Crypto
 
-# Sandbox
+# Sandbox, 沙盒
 
 a sandbox is a secluded env on a pc, where a developer can run the untrusted code to study the result without having effects in sys.
 
@@ -35,7 +35,7 @@ to do dynamic malware analysis systems, there are 2 free snadbox are recommeded:
 
 * CWSandbox
 
-# VM
+# VM, 虛擬機
 
 it is an alternative to Sandbox, or an practition example of Sandbox. They got unique MAC address assigned to them selves.
 
