@@ -47,6 +47,32 @@ http://www.wildlist.org/user_reports.htm (frequently asked virus)
 
 8. virus --- Pestudio
 
+9. running program --- Process Explorer
+
+# Vulnerability Mgmt Process
+
+https://community.synopsys.com/s/topic/0TO34000000LiuoGAC/codenomicon
+
+-[x] Analysis on Attack Surface
+
+-[x] Test (identify) the Attack Vectors
+
+-[x] Report
+
+-[x] Mitigate
+
+# Attack Protection Tool
+
+(1) Recognition/Reconnaissance (attack area and target)
+
+(2) Incursion to Network, and place the Malware to System
+
+(3) Discovery from Fingerprint to reveal the flaws and drawback of sys
+
+(4) Capture Information from flaws of sys
+
+(5) Exfiltration (send back info to Hacker)
+
 # Suspicious Packer Detection
 
 ...
@@ -54,6 +80,8 @@ http://www.wildlist.org/user_reports.htm (frequently asked virus)
 ------------------------------------------------------------
 
 # Attack in Sys Level:
+
+* P2P Network
 
 * Anonymous IP by Proxy tool, 使用代理工具製造偽造IP位址
 
