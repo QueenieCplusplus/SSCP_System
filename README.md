@@ -25,7 +25,7 @@ http://www.wildlist.org/user_reports.htm (frequently asked virus)
 
 5. Target Process (call API)
 
-6. File Modify
+6. File Modify (Long File Extensions/Double File Extensions)
 
 7. Http Traffic
 
