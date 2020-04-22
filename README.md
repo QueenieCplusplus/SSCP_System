@@ -11,6 +11,8 @@ All Attacks for System (Monitor)
 
 * Code Detection, 系統指紋辨識->系統漏洞
 
+* Mobile Malcode, 手機病毒
+
 * Backdoor, 後門程式
 
 * Buffer overflaw, 緩衝區溢位
@@ -20,3 +22,12 @@ All Attacks for System (Monitor)
 * Diretory Traversal (a.k.a Filepath Traversal), 路徑跨域
 
 * Convert Channel, 秘密通道
+
+# Attacked Apps:
+
+* Adware
+
+* Spyware
+
+* Rogue
+
