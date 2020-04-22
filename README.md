@@ -19,6 +19,8 @@ Codes are differ from Schema and the Party who signs, such as the author of the 
 
 * Pub/Private Keys Pair:
 
+Digital Signature is benefit from the availabilty of a pub key infra, and then cert contains the id of the entity and pub key, which can be verified.
+
 https://github.com/QueenieCplusplus/Cipher_Crypto
 
 # Sandbox
