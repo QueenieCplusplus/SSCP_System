@@ -37,9 +37,17 @@ to do dynamic malware analysis systems, there are 2 free snadbox are recommeded:
 
 # VM
 
-it is an alternative to Sandbox, or an practition example of Sandbox.
+it is an alternative to Sandbox, or an practition example of Sandbox. They got unique MAC address assigned to them selves.
 
-it emulates a PC, calling guest os, on the VM host.
+it emulates a PC, calling guest os, on the VM host. This Env can restore image of previous state of the guest Machie, against to the even-worse scenario of a real one. (then no need to reinstall software the is required.)
+
+to determine that it is a VM or Host or Virtual Hardware by using method:
+
+VBoxTray.exe (Virtual Box)
+
+VMouse.sys (VMWare)
+
+Network Interfaces
 
 ------------------------------------------------------------
 
