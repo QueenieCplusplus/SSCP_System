@@ -28,6 +28,8 @@ All Attacks for System (Monitor)
 
 # Attack in Sys Level:
 
+* Anonymous IP by Proxy tool, 使用代理工具製造偽造IP位址
+
 * Rootkit, 管理員權限的攻擊
 
 * Code Detection, 系統指紋辨識->系統漏洞
