@@ -94,6 +94,8 @@ Hacker can manifest(show) config values, and make request to Server, then get re
 
 -[x] Rule-based Attack
 
+   to guess username & password from a guessed space coverage, like "John the Ripper" can generate password variation from part of username or modify them thru a preconfig mask words in the input.
+
 ------------------------------------------------------------
 
 # Attack in Sys Level:
