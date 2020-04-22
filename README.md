@@ -34,6 +34,8 @@ All Attacks for System (Monitor)
 
 * Mobile Malcode, 手機病毒
 
+* Deobfuscation of Srcipt, 防止腳本混淆技術
+
 * Backdoor, 後門程式
 
 * Log File Attack, 偷看紀錄（揭露重要訊息）
@@ -51,6 +53,8 @@ http://www.rekall-forensic.com (鑑識檢測工具)
 * Convert Channel, 秘密通道
 
 * Passive DNS Query by "fast flux botnets", 反向主機名稱查詢
+
+* Reverse IP/ WHOIS by Robtex/DomainCrawler/SpamHaus/DNSstuff/DomaimTool
 
 https://ithelp.ithome.com.tw/articles/10190057
 
